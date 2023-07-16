@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<%@ include file="menu.jsp" %>
 
 ログイン名またはパスワードが違います。
 

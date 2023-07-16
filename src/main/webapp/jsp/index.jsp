@@ -7,9 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%@ include file="menu.jsp" %>
+<%@include file="menu.jsp" %>
 
-こんにちは、${customer.login}さん。
+寿司オンラインショッピングへようこそ！
 
 </body>
 </html>
